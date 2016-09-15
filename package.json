@@ -41,7 +41,15 @@
     "webpack-dev-server": "^1.12.1"
   },
   "dependencies": {
-    "react": "^0.14.6",
-    "react-dom": "^0.14.6"
+    "css-loader": "^0.25.0",
+    "immutability-helper": "^2.0.0",
+    "node-sass": "^3.10.0",
+    "normalize.css": "^4.2.0",
+    "react": "^0.14.8",
+    "react-addons-css-transition-group": "^15.3.1",
+    "react-dom": "^0.14.6",
+    "react-toolbox": "^1.2.1",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1"
   }
 }
